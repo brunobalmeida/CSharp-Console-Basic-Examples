@@ -1,0 +1,7 @@
+C:\Users\dbrun\Desktop\GithubeTempFolder\Programming Fundamentals\4 - Example 4 - Math Examples\4 - Example 4 - Math Examples\bin\Debug\4 - Example 4 - Math Examples.exe.config
+C:\Users\dbrun\Desktop\GithubeTempFolder\Programming Fundamentals\4 - Example 4 - Math Examples\4 - Example 4 - Math Examples\bin\Debug\4 - Example 4 - Math Examples.exe
+C:\Users\dbrun\Desktop\GithubeTempFolder\Programming Fundamentals\4 - Example 4 - Math Examples\4 - Example 4 - Math Examples\bin\Debug\4 - Example 4 - Math Examples.pdb
+C:\Users\dbrun\Desktop\GithubeTempFolder\Programming Fundamentals\4 - Example 4 - Math Examples\4 - Example 4 - Math Examples\obj\Debug\4 - Example 4 - Math Examples.csprojResolveAssemblyReference.cache
+C:\Users\dbrun\Desktop\GithubeTempFolder\Programming Fundamentals\4 - Example 4 - Math Examples\4 - Example 4 - Math Examples\obj\Debug\4 - Example 4 - Math Examples.csproj.CoreCompileInputs.cache
+C:\Users\dbrun\Desktop\GithubeTempFolder\Programming Fundamentals\4 - Example 4 - Math Examples\4 - Example 4 - Math Examples\obj\Debug\4 - Example 4 - Math Examples.exe
+C:\Users\dbrun\Desktop\GithubeTempFolder\Programming Fundamentals\4 - Example 4 - Math Examples\4 - Example 4 - Math Examples\obj\Debug\4 - Example 4 - Math Examples.pdb

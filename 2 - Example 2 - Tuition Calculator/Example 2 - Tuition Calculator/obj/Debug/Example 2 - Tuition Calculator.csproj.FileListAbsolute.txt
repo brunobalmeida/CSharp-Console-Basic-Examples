@@ -1,0 +1,7 @@
+C:\Users\dbrun\Desktop\GithubeTempFolder\Programming Fundamentals\Example 2 - Tuition Calculator\Example 2 - Tuition Calculator\bin\Debug\Example 2 - Tuition Calculator.exe.config
+C:\Users\dbrun\Desktop\GithubeTempFolder\Programming Fundamentals\Example 2 - Tuition Calculator\Example 2 - Tuition Calculator\bin\Debug\Example 2 - Tuition Calculator.exe
+C:\Users\dbrun\Desktop\GithubeTempFolder\Programming Fundamentals\Example 2 - Tuition Calculator\Example 2 - Tuition Calculator\bin\Debug\Example 2 - Tuition Calculator.pdb
+C:\Users\dbrun\Desktop\GithubeTempFolder\Programming Fundamentals\Example 2 - Tuition Calculator\Example 2 - Tuition Calculator\obj\Debug\Example 2 - Tuition Calculator.csprojResolveAssemblyReference.cache
+C:\Users\dbrun\Desktop\GithubeTempFolder\Programming Fundamentals\Example 2 - Tuition Calculator\Example 2 - Tuition Calculator\obj\Debug\Example 2 - Tuition Calculator.csproj.CoreCompileInputs.cache
+C:\Users\dbrun\Desktop\GithubeTempFolder\Programming Fundamentals\Example 2 - Tuition Calculator\Example 2 - Tuition Calculator\obj\Debug\Example 2 - Tuition Calculator.exe
+C:\Users\dbrun\Desktop\GithubeTempFolder\Programming Fundamentals\Example 2 - Tuition Calculator\Example 2 - Tuition Calculator\obj\Debug\Example 2 - Tuition Calculator.pdb

@@ -1,0 +1,7 @@
+C:\Users\dbrun\Desktop\GithubeTempFolder\Programming Fundamentals\7 - Example 7 - Create and Record info\DogClass\bin\Debug\DogClass.exe.config
+C:\Users\dbrun\Desktop\GithubeTempFolder\Programming Fundamentals\7 - Example 7 - Create and Record info\DogClass\bin\Debug\DogClass.exe
+C:\Users\dbrun\Desktop\GithubeTempFolder\Programming Fundamentals\7 - Example 7 - Create and Record info\DogClass\bin\Debug\DogClass.pdb
+C:\Users\dbrun\Desktop\GithubeTempFolder\Programming Fundamentals\7 - Example 7 - Create and Record info\DogClass\obj\Debug\DogClass.csprojResolveAssemblyReference.cache
+C:\Users\dbrun\Desktop\GithubeTempFolder\Programming Fundamentals\7 - Example 7 - Create and Record info\DogClass\obj\Debug\DogClass.csproj.CoreCompileInputs.cache
+C:\Users\dbrun\Desktop\GithubeTempFolder\Programming Fundamentals\7 - Example 7 - Create and Record info\DogClass\obj\Debug\DogClass.exe
+C:\Users\dbrun\Desktop\GithubeTempFolder\Programming Fundamentals\7 - Example 7 - Create and Record info\DogClass\obj\Debug\DogClass.pdb

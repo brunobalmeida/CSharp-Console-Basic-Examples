@@ -1,0 +1,7 @@
+C:\Users\dbrun\Desktop\GithubeTempFolder\Programming Fundamentals\Example 3 - Volume Calculator\Example 3 - Volume Calculator\bin\Debug\Example 3 - Volume Calculator.exe.config
+C:\Users\dbrun\Desktop\GithubeTempFolder\Programming Fundamentals\Example 3 - Volume Calculator\Example 3 - Volume Calculator\bin\Debug\Example 3 - Volume Calculator.exe
+C:\Users\dbrun\Desktop\GithubeTempFolder\Programming Fundamentals\Example 3 - Volume Calculator\Example 3 - Volume Calculator\bin\Debug\Example 3 - Volume Calculator.pdb
+C:\Users\dbrun\Desktop\GithubeTempFolder\Programming Fundamentals\Example 3 - Volume Calculator\Example 3 - Volume Calculator\obj\Debug\Example 3 - Volume Calculator.csprojResolveAssemblyReference.cache
+C:\Users\dbrun\Desktop\GithubeTempFolder\Programming Fundamentals\Example 3 - Volume Calculator\Example 3 - Volume Calculator\obj\Debug\Example 3 - Volume Calculator.csproj.CoreCompileInputs.cache
+C:\Users\dbrun\Desktop\GithubeTempFolder\Programming Fundamentals\Example 3 - Volume Calculator\Example 3 - Volume Calculator\obj\Debug\Example 3 - Volume Calculator.exe
+C:\Users\dbrun\Desktop\GithubeTempFolder\Programming Fundamentals\Example 3 - Volume Calculator\Example 3 - Volume Calculator\obj\Debug\Example 3 - Volume Calculator.pdb

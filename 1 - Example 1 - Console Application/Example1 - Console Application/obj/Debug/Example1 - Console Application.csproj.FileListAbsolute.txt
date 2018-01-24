@@ -1,0 +1,7 @@
+C:\Users\dbrun\Desktop\GithubeTempFolder\Programming Fundamentals\1 - Example 1 - Console Application\Example1 - Console Application\bin\Debug\Example1 - Console Application.exe.config
+C:\Users\dbrun\Desktop\GithubeTempFolder\Programming Fundamentals\1 - Example 1 - Console Application\Example1 - Console Application\bin\Debug\Example1 - Console Application.exe
+C:\Users\dbrun\Desktop\GithubeTempFolder\Programming Fundamentals\1 - Example 1 - Console Application\Example1 - Console Application\bin\Debug\Example1 - Console Application.pdb
+C:\Users\dbrun\Desktop\GithubeTempFolder\Programming Fundamentals\1 - Example 1 - Console Application\Example1 - Console Application\obj\Debug\Example1 - Console Application.csprojResolveAssemblyReference.cache
+C:\Users\dbrun\Desktop\GithubeTempFolder\Programming Fundamentals\1 - Example 1 - Console Application\Example1 - Console Application\obj\Debug\Example1 - Console Application.csproj.CoreCompileInputs.cache
+C:\Users\dbrun\Desktop\GithubeTempFolder\Programming Fundamentals\1 - Example 1 - Console Application\Example1 - Console Application\obj\Debug\Example1 - Console Application.exe
+C:\Users\dbrun\Desktop\GithubeTempFolder\Programming Fundamentals\1 - Example 1 - Console Application\Example1 - Console Application\obj\Debug\Example1 - Console Application.pdb
